@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184371780302",
+    "project_id": "ctse-labactivity",
+    "storage_bucket": "ctse-labactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184371780302:android:6fae8286f251ac1a588e9f",
+        "android_client_info": {
+          "package_name": "com.example.ctse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184371780302-kiaqfet3paa8f1plquqt1i4kjjgnkj2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITtA0UoJ1iTHm9TTfOyFltd-4osspgjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184371780302-kiaqfet3paa8f1plquqt1i4kjjgnkj2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
